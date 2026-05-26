@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbev_pool_cuda.a CMakeFiles/bev_pool_cuda.dir/optimize/bev_pool_cuda_generated_bev_pool_cuda.cu.o
-/usr/bin/ranlib libbev_pool_cuda.a
